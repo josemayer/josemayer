@@ -67,7 +67,3 @@ I am actually a computer science student at University of São Paulo (USP). I re
     <img src="assets/vuetify.svg" height="36" alt="Vuetify"/>
   </a>
 </p>
-
----
-
-[![JoseMayer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josemayer)](https://github.com/anuraghazra/github-readme-stats) [![JoseMayer's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josemayer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
