@@ -9,24 +9,24 @@ I am actually a computer science student at University of São Paulo (USP). I re
 
 **Here are some technologies and languages i've worked with:**
 
-![Apache Servers](assets/apache.svg =x36 "Apache")
-![C Language](assets/c.svg =x36 "C")
-![CSS3](assets/css3.svg =x36 "CSS3")
-![Git Version Control](assets/git.svg =x36 "Git")
-![HTML5](assets/html5.svg =x36 "HTML5")
-![Java Language](assets/java.svg =x36 "Java")
-![Javascript Language](assets/javascript.svg =36x "Javascript")
-![Julia Language](assets/julia.svg =x36 "Julia")
-![LaTeX](assets/latex.svg =x36 "LaTeX")
-![MySQL](assets/mysql.svg =x36 "MySQL")
-![PHP](assets/php.svg =x36 "PHP")
-![Python Language](assets/python.svg =x36 "Python")
+<img src="assets/apache.svg" height="36" alt="Apache"/>
+<img src="assets/c.svg" height="36" alt="C"/>
+<img src="assets/css3.svg" height="36" alt="CSS3"/>
+<img src="assets/git.svg" height="36" alt="Git"/>
+<img src="assets/html5.svg" height="36" alt="HTML5"/>
+<img src="assets/java.svg" height="36" alt="Java"/>
+<img src="assets/javascript.svg" height="36" alt="Javascript"/>
+<img src="assets/julia.svg" height="36" alt="Julia"/>
+<img src="assets/latex.svg" height="36" alt="LaTeX"/>
+<img src="assets/mysql.svg" height="36" alt="MySQL"/>
+<img src="assets/php.svg" height="36" alt="PHP"/>
+<img src="assets/python.svg" height="36" alt="Python"/>
 
 **And here are some technologies and languages that i'm learning and improving:**
 
-![C++ Language](assets/cpp.svg =x36 "C++")
-![Docker](assets/docker.svg =x36 "Docker")
-![Kotlin Language](assets/kotlin.svg =x36 "Kotlin")
-![Linux Systems](assets/linux.svg =x36 "Linux")
-![VueJS Framework](assets/vuejs.svg =x36 "VueJS")
-![Vuetify](assets/vuetify.svg =x36 "Vuetify")
+<img src="assets/cpp.svg" height="36" alt="C++"/>
+<img src="assets/docker.svg" height="36" alt="Docker"/>
+<img src="assets/kotlin.svg" height="36" alt="Kotlin"/>
+<img src="assets/linux.svg" height="36" alt="Linux"/>
+<img src="assets/vuejs.svg" height="36" alt="VueJS"/>
+<img src="assets/vuetify.svg" height="36" alt="Vuetify"/>
