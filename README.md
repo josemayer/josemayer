@@ -58,6 +58,9 @@ I am actually a computer science student at University of São Paulo (USP). I re
     <img src="assets/linux.svg" height="36" alt="Linux"/>
   </a>
   <a href="#" style="text-decoration: none; cursor: default;">
+    <img src="assets/nodejs.svg" height="36" alt="NodeJS"/>
+  </a>
+  <a href="#" style="text-decoration: none; cursor: default;">
     <img src="assets/vuejs.svg" height="36" alt="VueJS"/>
   </a>
   <a href="#" style="text-decoration: none; cursor: default;">
