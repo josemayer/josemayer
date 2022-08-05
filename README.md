@@ -9,24 +9,28 @@ I am actually a computer science student at University of São Paulo (USP). I re
 
 **Here are some technologies and languages i've worked with:**
 
-<img src="assets/apache.svg" height="36" alt="Apache"/>
-<img src="assets/c.svg" height="36" alt="C"/>
-<img src="assets/css3.svg" height="36" alt="CSS3"/>
-<img src="assets/git.svg" height="36" alt="Git"/>
-<img src="assets/html5.svg" height="36" alt="HTML5"/>
-<img src="assets/java.svg" height="36" alt="Java"/>
-<img src="assets/javascript.svg" height="36" alt="Javascript"/>
-<img src="assets/julia.svg" height="36" alt="Julia"/>
-<img src="assets/latex.svg" height="36" alt="LaTeX"/>
-<img src="assets/mysql.svg" height="36" alt="MySQL"/>
-<img src="assets/php.svg" height="36" alt="PHP"/>
-<img src="assets/python.svg" height="36" alt="Python"/>
+<p style="float: left;">
+  <img src="assets/apache.svg" height="36" alt="Apache"/>
+  <img src="assets/c.svg" height="36" alt="C"/>
+  <img src="assets/css3.svg" height="36" alt="CSS3"/>
+  <img src="assets/git.svg" height="36" alt="Git"/>
+  <img src="assets/html5.svg" height="36" alt="HTML5"/>
+  <img src="assets/java.svg" height="36" alt="Java"/>
+  <img src="assets/javascript.svg" height="36" alt="Javascript"/>
+  <img src="assets/julia.svg" height="36" alt="Julia"/>
+  <img src="assets/latex.svg" height="36" alt="LaTeX"/>
+  <img src="assets/mysql.svg" height="36" alt="MySQL"/>
+  <img src="assets/php.svg" height="36" alt="PHP"/>
+  <img src="assets/python.svg" height="36" alt="Python"/>
+</p>
 
 **And here are some technologies and languages that i'm learning and improving:**
 
-<img src="assets/cpp.svg" height="36" alt="C++"/>
-<img src="assets/docker.svg" height="36" alt="Docker"/>
-<img src="assets/kotlin.svg" height="36" alt="Kotlin"/>
-<img src="assets/linux.svg" height="36" alt="Linux"/>
-<img src="assets/vuejs.svg" height="36" alt="VueJS"/>
-<img src="assets/vuetify.svg" height="36" alt="Vuetify"/>
+<p style="float: left;">
+  <img src="assets/cpp.svg" height="36" alt="C++"/>
+  <img src="assets/docker.svg" height="36" alt="Docker"/>
+  <img src="assets/kotlin.svg" height="36" alt="Kotlin"/>
+  <img src="assets/linux.svg" height="36" alt="Linux"/>
+  <img src="assets/vuejs.svg" height="36" alt="VueJS"/>
+  <img src="assets/vuetify.svg" height="36" alt="Vuetify"/>
+</p>
