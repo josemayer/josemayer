@@ -1,3 +1,10 @@
+<style>
+.no-link-decorate {
+  text-decoration: none;
+  cursor: default;
+}
+</style>
+
 ### Hi, i'm Zé! 👋
 
 I am actually a computer science student at University of São Paulo (USP). I really like to learn and do some programming stuffs. Also, I think that technology can improve our world.
@@ -64,10 +71,3 @@ I am actually a computer science student at University of São Paulo (USP). I re
     <img src="assets/vuetify.svg" height="36" alt="Vuetify"/>
   </a>
 </p>
-
-<style>
-.no-link-decorate {
-  text-decoration: none;
-  cursor: default;
-}
-</style>
