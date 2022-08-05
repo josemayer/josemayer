@@ -17,8 +17,6 @@ I am actually a computer science student at University of São Paulo (USP). I re
   <img src="assets/html5.svg" height="36" alt="HTML5"/>
   <img src="assets/java.svg" height="36" alt="Java"/>
   <img src="assets/javascript.svg" height="36" alt="Javascript"/>
-  <img src="assets/julia.svg" height="36" alt="Julia"/>
-  <img src="assets/latex.svg" height="36" alt="LaTeX"/>
   <img src="assets/mysql.svg" height="36" alt="MySQL"/>
   <img src="assets/php.svg" height="36" alt="PHP"/>
   <img src="assets/python.svg" height="36" alt="Python"/>
